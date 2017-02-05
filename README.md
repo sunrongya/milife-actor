@@ -38,4 +38,5 @@
 ### 值对象
 - **卡号**、**金额**、**状态**等
 
-
+### 参考
+[actor框架](https://github.com/AsynkronIT/protoactor-go)
